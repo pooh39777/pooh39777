@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi Everyone 👋
+
+My name's "Puwadol Chawengkul". I'm from Thailand. 
+
+- 🌱 I'm currently working on Species Distribution Modeling of Bryophytes in Southeast Asia.
+- 🔭 I’m currently learning about data analytics and data science.
 
 <!--
 **pooh39777/pooh39777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
